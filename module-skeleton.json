@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-marketplace-orders-flutter",
+  "capabilityKey": "planned:ecommerce:marketplace-orders",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_marketplace_orders_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/marketplace-orders.md",
+  "presentationPlan": "projects/ecommerce/flutter/marketplace-orders.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
